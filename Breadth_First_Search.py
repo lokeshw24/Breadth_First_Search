@@ -17,6 +17,7 @@ def breadth_first_search():
        
     #initialize queue
     queue=[]
+    #randomly selecting a starting-node
     current_node=1
                       
     queue.append(current_node)
