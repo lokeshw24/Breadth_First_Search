@@ -1,0 +1,7 @@
+Simple implementation of Breadth-First-Search Algorithm over a un-directed graph.
+[ From Cormen book ]
+
+TO-DO :
+-------
+>Implement the same algo with OOP concepts, I think the code would be much cleaner then.
+>I think the code would not change for "directed" graph, but need to test this.
