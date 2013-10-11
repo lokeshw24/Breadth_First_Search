@@ -5,3 +5,4 @@ TO-DO :
 -------
 >Implement the same algo with OOP concepts, I think the code would be much cleaner then.
 >I think the code would not change for "directed" graph, but need to test this.
+>Didn't consider the case of having "dis-connected" graph.
